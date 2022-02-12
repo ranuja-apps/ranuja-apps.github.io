@@ -1,3 +1,4 @@
 google.com, pub-2540765935808056, DIRECT, f08c47fec0942fa0
 adingo.jp,26199, RESELLER
 google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+facebook.com, 156857813352585, DIRECT, c3e20eee3f780d68
